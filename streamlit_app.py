@@ -11,4 +11,4 @@ streamlit.text('🥑🍞 Avocardo Toast')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 
-streamlit.header('\N{flexed biceps}  Build Your Muscles \N{flexed biceps right} ')
+streamlit.header('\N{flexed biceps}  Build Your Muscles \N{flexed biceps} ')
