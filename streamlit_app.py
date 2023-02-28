@@ -60,7 +60,7 @@ def get_fruit_load_list():
 # Take the json version of the response and normalize it
 # output it to the screen as a table
    
-streamlit.stop()
+#streamlit.stop()
 
 #Allow the end user to add a fruit to the list
 def insert_row_snowflake(new_fruit):
